@@ -1,0 +1,59 @@
+node_name,node_id,,
+building node1,1001,,"(-45, -41)"
+building node1,1002,,"(-5, -23)"
+building node1,1003,,"(39, -1)"
+building node1,1004,,"(1, 44)"
+building node1,1005,,"(14, 16)"
+building node1,1006,,"(-33, 37)"
+building node1,1007,,"(35, 45)"
+building node1,1008,,"(-34, -22)"
+building node1,1009,,"(-12, -28)"
+building node1,1010,,"(-32, 22)"
+building node1,1011,,"(-44, -38)"
+building node1,1012,,"(-18, 28)"
+building node1,1013,,"(19, 35)"
+building node1,1014,,"(-33, -19)"
+building node1,1015,,"(-41, -15)"
+building node1,1016,,"(45, 23)"
+building node1,1017,,"(-43, -10)"
+building node1,1018,,"(16, 6)"
+building node1,1019,,"(5, 16)"
+building node1,1020,,"(-6, 22)"
+location node1,2001,,
+location node1,2002,,
+location node1,2003,,
+location node1,2004,,
+location node1,2005,,
+location node1,2006,,
+location node1,2007,,
+location node1,2008,,
+location node1,2009,,
+location node2,3001,,
+location node2,3002,,
+location node2,3003,,
+location node2,3004,,
+location node2,3005,,
+location node2,3006,,
+location node2,3007,,
+location node2,3008,,
+location node2,3009,,
+building node2,4001,,"(-45, -41)"
+building node2,4002,,"(-5, -23)"
+building node2,4003,,"(39, -1)"
+building node2,4004,,"(1, 44)"
+building node2,4005,,"(14, 16)"
+building node2,4006,,"(-33, 37)"
+building node2,4007,,"(35, 45)"
+building node2,4008,,"(-34, -22)"
+building node2,4009,,"(-12, -28)"
+building node2,4010,,"(-32, 22)"
+building node2,4011,,"(-44, -38)"
+building node2,4012,,"(-18, 28)"
+building node2,4013,,"(19, 35)"
+building node2,4014,,"(-33, -19)"
+building node2,4015,,"(-41, -15)"
+building node2,4016,,"(45, 23)"
+building node2,4017,,"(-43, -10)"
+building node2,4018,,"(16, 6)"
+building node2,4019,,"(5, 16)"
+building node2,4020,,"(-6, 22)"

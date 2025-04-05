@@ -1,0 +1,145 @@
+agent_id,origin_node_id,destination_node_id,customized_cost_link_value,origin_node_name,destination_node_name
+1,1001,4001,17.43,Beijing Badaling Airport,Shanghai Gaodong Heliport
+2,1001,4002,3.3,Beijing Badaling Airport,Shanghai Longhua Heliport
+3,1001,4003,3.78,Beijing Badaling Airport,Qingpu Zhaoxiang Heliport
+4,1001,4004,1.63,Beijing Badaling Airport,Deqing Moganshan Airport
+5,1001,4005,3.28,Beijing Badaling Airport,Shaoxing Jianhu Heliport
+6,1001,4006,1.8,Beijing Badaling Airport,Anji Changshuo Heliport
+7,1001,4007,1.05,Beijing Badaling Airport,Zhoushan Taohua Heliport
+8,1001,4008,0.58,Beijing Badaling Airport,Zhoushan Daixi Heliport
+9,1001,4009,0.18,Beijing Badaling Airport,Shengsi Caiyuan Heliport
+10,1001,4010,4.29,Beijing Badaling Airport,Suzhou Luzhi Airport
+11,1001,4011,4.31,Beijing Badaling Airport,Suzhou Weiting Heliport
+12,1001,4012,1.86,Beijing Badaling Airport,Wuxi Xuelang Heliport
+13,1002,4001,116.25,Changping Xiaotangshan Heliport,Shanghai Gaodong Heliport
+14,1002,4002,22.02,Changping Xiaotangshan Heliport,Shanghai Longhua Heliport
+15,1002,4003,25.2,Changping Xiaotangshan Heliport,Qingpu Zhaoxiang Heliport
+16,1002,4004,10.85,Changping Xiaotangshan Heliport,Deqing Moganshan Airport
+17,1002,4005,21.87,Changping Xiaotangshan Heliport,Shaoxing Jianhu Heliport
+18,1002,4006,12.03,Changping Xiaotangshan Heliport,Anji Changshuo Heliport
+19,1002,4007,7,Changping Xiaotangshan Heliport,Zhoushan Taohua Heliport
+20,1002,4008,3.89,Changping Xiaotangshan Heliport,Zhoushan Daixi Heliport
+21,1002,4009,1.19,Changping Xiaotangshan Heliport,Shengsi Caiyuan Heliport
+22,1002,4010,28.27,Changping Xiaotangshan Heliport,Suzhou Luzhi Airport
+23,1002,4011,28.48,Changping Xiaotangshan Heliport,Suzhou Weiting Heliport
+24,1002,4012,12.29,Changping Xiaotangshan Heliport,Wuxi Xuelang Heliport
+25,1003,4001,161.16,Beijing Haidian Airport,Shanghai Gaodong Heliport
+26,1003,4002,30.53,Beijing Haidian Airport,Shanghai Longhua Heliport
+27,1003,4003,34.94,Beijing Haidian Airport,Qingpu Zhaoxiang Heliport
+28,1003,4004,15.04,Beijing Haidian Airport,Deqing Moganshan Airport
+29,1003,4005,30.32,Beijing Haidian Airport,Shaoxing Jianhu Heliport
+30,1003,4006,16.67,Beijing Haidian Airport,Anji Changshuo Heliport
+31,1003,4007,9.7,Beijing Haidian Airport,Zhoushan Taohua Heliport
+32,1003,4008,5.39,Beijing Haidian Airport,Zhoushan Daixi Heliport
+33,1003,4009,1.65,Beijing Haidian Airport,Shengsi Caiyuan Heliport
+34,1003,4010,39.42,Beijing Haidian Airport,Suzhou Luzhi Airport
+35,1003,4011,39.71,Beijing Haidian Airport,Suzhou Weiting Heliport
+36,1003,4012,17.13,Beijing Haidian Airport,Wuxi Xuelang Heliport
+37,1004,4001,94.2,Tongzhou Lucheng Heliport,Shanghai Gaodong Heliport
+38,1004,4002,17.85,Tongzhou Lucheng Heliport,Shanghai Longhua Heliport
+39,1004,4003,20.42,Tongzhou Lucheng Heliport,Qingpu Zhaoxiang Heliport
+40,1004,4004,8.79,Tongzhou Lucheng Heliport,Deqing Moganshan Airport
+41,1004,4005,17.73,Tongzhou Lucheng Heliport,Shaoxing Jianhu Heliport
+42,1004,4006,9.75,Tongzhou Lucheng Heliport,Anji Changshuo Heliport
+43,1004,4007,5.67,Tongzhou Lucheng Heliport,Zhoushan Taohua Heliport
+44,1004,4008,3.15,Tongzhou Lucheng Heliport,Zhoushan Daixi Heliport
+45,1004,4009,0.96,Tongzhou Lucheng Heliport,Shengsi Caiyuan Heliport
+46,1004,4010,23.18,Tongzhou Lucheng Heliport,Suzhou Luzhi Airport
+47,1004,4011,23.35,Tongzhou Lucheng Heliport,Suzhou Weiting Heliport
+48,1004,4012,10.08,Tongzhou Lucheng Heliport,Wuxi Xuelang Heliport
+49,1005,4001,95.07,Tongzhou Xiji Heliport,Shanghai Gaodong Heliport
+50,1005,4002,18.01,Tongzhou Xiji Heliport,Shanghai Longhua Heliport
+51,1005,4003,20.61,Tongzhou Xiji Heliport,Qingpu Zhaoxiang Heliport
+52,1005,4004,8.87,Tongzhou Xiji Heliport,Deqing Moganshan Airport
+53,1005,4005,17.89,Tongzhou Xiji Heliport,Shaoxing Jianhu Heliport
+54,1005,4006,9.84,Tongzhou Xiji Heliport,Anji Changshuo Heliport
+55,1005,4007,5.72,Tongzhou Xiji Heliport,Zhoushan Taohua Heliport
+56,1005,4008,3.18,Tongzhou Xiji Heliport,Zhoushan Daixi Heliport
+57,1005,4009,0.97,Tongzhou Xiji Heliport,Shengsi Caiyuan Heliport
+58,1005,4010,23.26,Tongzhou Xiji Heliport,Suzhou Luzhi Airport
+59,1005,4011,23.43,Tongzhou Xiji Heliport,Suzhou Weiting Heliport
+60,1005,4012,10.11,Tongzhou Xiji Heliport,Wuxi Xuelang Heliport
+61,1006,4001,102.99,Beijing Daxing Lixian Heliport,Shanghai Gaodong Heliport
+62,1006,4002,19.51,Beijing Daxing Lixian Heliport,Shanghai Longhua Heliport
+63,1006,4003,22.33,Beijing Daxing Lixian Heliport,Qingpu Zhaoxiang Heliport
+64,1006,4004,9.61,Beijing Daxing Lixian Heliport,Deqing Moganshan Airport
+65,1006,4005,19.37,Beijing Daxing Lixian Heliport,Shaoxing Jianhu Heliport
+66,1006,4006,10.65,Beijing Daxing Lixian Heliport,Anji Changshuo Heliport
+67,1006,4007,6.2,Beijing Daxing Lixian Heliport,Zhoushan Taohua Heliport
+68,1006,4008,3.45,Beijing Daxing Lixian Heliport,Zhoushan Daixi Heliport
+69,1006,4009,1.05,Beijing Daxing Lixian Heliport,Shengsi Caiyuan Heliport
+70,1006,4010,25.35,Beijing Daxing Lixian Heliport,Suzhou Luzhi Airport
+71,1006,4011,25.54,Beijing Daxing Lixian Heliport,Suzhou Weiting Heliport
+72,1006,4012,11.02,Beijing Daxing Lixian Heliport,Wuxi Xuelang Heliport
+73,1007,4001,106.36,Binhai Development Zone Heliport,Shanghai Gaodong Heliport
+74,1007,4002,20.15,Binhai Development Zone Heliport,Shanghai Longhua Heliport
+75,1007,4003,23.06,Binhai Development Zone Heliport,Qingpu Zhaoxiang Heliport
+76,1007,4004,9.92,Binhai Development Zone Heliport,Deqing Moganshan Airport
+77,1007,4005,20,Binhai Development Zone Heliport,Shaoxing Jianhu Heliport
+78,1007,4006,11,Binhai Development Zone Heliport,Anji Changshuo Heliport
+79,1007,4007,6.39,Binhai Development Zone Heliport,Zhoushan Taohua Heliport
+80,1007,4008,3.56,Binhai Development Zone Heliport,Zhoushan Daixi Heliport
+81,1007,4009,1.09,Binhai Development Zone Heliport,Shengsi Caiyuan Heliport
+82,1007,4010,26.18,Binhai Development Zone Heliport,Suzhou Luzhi Airport
+83,1007,4011,26.38,Binhai Development Zone Heliport,Suzhou Weiting Heliport
+84,1007,4012,11.38,Binhai Development Zone Heliport,Wuxi Xuelang Heliport
+85,1008,4001,111.76,Tianjin Tanggu Airport,Shanghai Gaodong Heliport
+86,1008,4002,21.17,Tianjin Tanggu Airport,Shanghai Longhua Heliport
+87,1008,4003,24.22,Tianjin Tanggu Airport,Qingpu Zhaoxiang Heliport
+88,1008,4004,10.42,Tianjin Tanggu Airport,Deqing Moganshan Airport
+89,1008,4005,21,Tianjin Tanggu Airport,Shaoxing Jianhu Heliport
+90,1008,4006,11.56,Tianjin Tanggu Airport,Anji Changshuo Heliport
+91,1008,4007,6.7,Tianjin Tanggu Airport,Zhoushan Taohua Heliport
+92,1008,4008,3.73,Tianjin Tanggu Airport,Zhoushan Daixi Heliport
+93,1008,4009,1.14,Tianjin Tanggu Airport,Shengsi Caiyuan Heliport
+94,1008,4010,27.52,Tianjin Tanggu Airport,Suzhou Luzhi Airport
+95,1008,4011,27.73,Tianjin Tanggu Airport,Suzhou Weiting Heliport
+96,1008,4012,11.97,Tianjin Tanggu Airport,Wuxi Xuelang Heliport
+97,1009,4001,114.54,Tianjin Binhai Douzhuang General Airport,Shanghai Gaodong Heliport
+98,1009,4002,21.7,Tianjin Binhai Douzhuang General Airport,Shanghai Longhua Heliport
+99,1009,4003,24.82,Tianjin Binhai Douzhuang General Airport,Qingpu Zhaoxiang Heliport
+100,1009,4004,10.67,Tianjin Binhai Douzhuang General Airport,Deqing Moganshan Airport
+101,1009,4005,21.51,Tianjin Binhai Douzhuang General Airport,Shaoxing Jianhu Heliport
+102,1009,4006,11.85,Tianjin Binhai Douzhuang General Airport,Anji Changshuo Heliport
+103,1009,4007,6.86,Tianjin Binhai Douzhuang General Airport,Zhoushan Taohua Heliport
+104,1009,4008,3.82,Tianjin Binhai Douzhuang General Airport,Zhoushan Daixi Heliport
+105,1009,4009,1.16,Tianjin Binhai Douzhuang General Airport,Shengsi Caiyuan Heliport
+106,1009,4010,28.2,Tianjin Binhai Douzhuang General Airport,Suzhou Luzhi Airport
+107,1009,4011,28.42,Tianjin Binhai Douzhuang General Airport,Suzhou Weiting Heliport
+108,1009,4012,12.28,Tianjin Binhai Douzhuang General Airport,Wuxi Xuelang Heliport
+109,1010,4001,48.28,Xiongan Minzhou Airport,Shanghai Gaodong Heliport
+110,1010,4002,9.15,Xiongan Minzhou Airport,Shanghai Longhua Heliport
+111,1010,4003,10.46,Xiongan Minzhou Airport,Qingpu Zhaoxiang Heliport
+112,1010,4004,4.5,Xiongan Minzhou Airport,Deqing Moganshan Airport
+113,1010,4005,9.06,Xiongan Minzhou Airport,Shaoxing Jianhu Heliport
+114,1010,4006,5,Xiongan Minzhou Airport,Anji Changshuo Heliport
+115,1010,4007,2.89,Xiongan Minzhou Airport,Zhoushan Taohua Heliport
+116,1010,4008,1.61,Xiongan Minzhou Airport,Zhoushan Daixi Heliport
+117,1010,4009,0.49,Xiongan Minzhou Airport,Shengsi Caiyuan Heliport
+118,1010,4010,10.82,Xiongan Minzhou Airport,Suzhou Luzhi Airport
+119,1010,4011,10.9,Xiongan Minzhou Airport,Suzhou Weiting Heliport
+120,1010,4012,4.7,Xiongan Minzhou Airport,Wuxi Xuelang Heliport
+121,1011,4001,52.47,Dingzhou Shuai Cun Airport,Shanghai Gaodong Heliport
+122,1011,4002,9.94,Dingzhou Shuai Cun Airport,Shanghai Longhua Heliport
+123,1011,4003,11.38,Dingzhou Shuai Cun Airport,Qingpu Zhaoxiang Heliport
+124,1011,4004,4.9,Dingzhou Shuai Cun Airport,Deqing Moganshan Airport
+125,1011,4005,9.88,Dingzhou Shuai Cun Airport,Shaoxing Jianhu Heliport
+126,1011,4006,5.43,Dingzhou Shuai Cun Airport,Anji Changshuo Heliport
+127,1011,4007,3.17,Dingzhou Shuai Cun Airport,Zhoushan Taohua Heliport
+128,1011,4008,1.76,Dingzhou Shuai Cun Airport,Zhoushan Daixi Heliport
+129,1011,4009,0.54,Dingzhou Shuai Cun Airport,Shengsi Caiyuan Heliport
+130,1011,4010,12.91,Dingzhou Shuai Cun Airport,Suzhou Luzhi Airport
+131,1011,4011,13,Dingzhou Shuai Cun Airport,Suzhou Weiting Heliport
+132,1011,4012,5.61,Dingzhou Shuai Cun Airport,Wuxi Xuelang Heliport
+133,1012,4001,16.86,Shijiazhuang Luancheng Airport,Shanghai Gaodong Heliport
+134,1012,4002,3.19,Shijiazhuang Luancheng Airport,Shanghai Longhua Heliport
+135,1012,4003,3.66,Shijiazhuang Luancheng Airport,Qingpu Zhaoxiang Heliport
+136,1012,4004,1.58,Shijiazhuang Luancheng Airport,Deqing Moganshan Airport
+137,1012,4005,3.18,Shijiazhuang Luancheng Airport,Shaoxing Jianhu Heliport
+138,1012,4006,1.74,Shijiazhuang Luancheng Airport,Anji Changshuo Heliport
+139,1012,4007,1.02,Shijiazhuang Luancheng Airport,Zhoushan Taohua Heliport
+140,1012,4008,0.57,Shijiazhuang Luancheng Airport,Zhoushan Daixi Heliport
+141,1012,4009,0.17,Shijiazhuang Luancheng Airport,Shengsi Caiyuan Heliport
+142,1012,4010,4.14,Shijiazhuang Luancheng Airport,Suzhou Luzhi Airport
+143,1012,4011,4.17,Shijiazhuang Luancheng Airport,Suzhou Weiting Heliport
+144,1012,4012,1.79,Shijiazhuang Luancheng Airport,Wuxi Xuelang Heliport
